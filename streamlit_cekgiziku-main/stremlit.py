@@ -23,9 +23,9 @@ page = st.sidebar.radio("Pilih Halaman", ["Beranda", "Analisis Berita", "Top 10 
 
 # Beranda
 if page == "Beranda":
-    st.title("📊 Dashboard Berasa")
+    st.title("📊 Dashboard CekGiziku")
     st.markdown("""
-    Selamat datang di **Dashboard Berasa**. Pilih halaman dari sidebar untuk melihat visualisasi data:
+    Selamat datang di **Dashboard CekGiziku**. Pilih halaman dari sidebar untuk melihat visualisasi data:
     - Analisis Berita
     - Top 10 Komoditas
     - Distribusi Komoditas per Subsektor
